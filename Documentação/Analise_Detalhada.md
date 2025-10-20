@@ -121,3 +121,39 @@ Esses números refletem a realidade de muitos profissionais juniores que buscam 
 
 ### Análise de Competência
 
+O objetivo desta análise foi comparar minhas competências com os requisitos mais recorrentes nas vagas às quais me candidatei. Para isso, coletei informações da seção "Requisitos e Qualificações" presente na maioria das descrições. Não incluí todas as vagas, pois muitos links já haviam sido removidos, e para esta análise, uma amostra representativa foi suficiente.
+Utilizei Python para realizar a análise, aplicando o cálculo de frequência absoluta para identificar os termos mais mencionados nas descrições. As bibliotecas utilizadas foram:
+- Pandas: para manipulação dos dados extraídos de um arquivo .xlsx
+- Collections (Counter): para contagem da frequência das palavras
+- re (Regular Expressions): para limpeza e padronização das strings
+- nltk (Natural Language Toolkit): para remoção de preposições, conjunções e stopwords
+
+#### Palavras-Chave Mais Frequentes
+
+As cinco palavras mais recorrentes nas descrições das vagas foram:
+- Dados — Apareceu 81 vezes. Reflete a centralidade dos dados no processo de tomada de decisão. Como cientista/analista de dados, o domínio sobre coleta, tratamento e interpretação é essencial. Mantenho constante atualização sobre técnicas e ferramentas para aprimorar meu desempenho.
+- Experiência — Apareceu 37 vezes. Apesar de ser um requisito comum, é também uma barreira para profissionais em busca de recolocação. Sem oportunidades, não há como adquirir a experiência exigida.
+- Power — Apareceu 26 vezes. Refere-se ao Power BI, uma das ferramentas de visualização mais requisitadas no mercado. A demanda por domínio dessa plataforma é alta.
+- SQL — Apareceu 26 vezes. Essencial para manipulação de dados e construção de dashboards. Continuo estudando SQL para garantir qualidade na entrega de análises e melhorar a acurácia de modelos preditivos.
+- Conhecimento — Apareceu 24 vezes. Embora seja um termo mais abstrato, representa um critério importante na avaliação de candidatos. Me classifiquei como avançado, considerando não apenas o domínio técnico, mas também minha vivência prática no mercado.
+A palavra BI, que aparece logo após essas cinco, também merece destaque. Ela pode se referir tanto às práticas de Business Intelligence quanto à própria ferramenta Power BI, reforçando a importância desse conjunto de habilidades nas vagas analisadas.
+
+#### Classificação de Competências
+
+Com base nas palavras mais frequentes, classifiquei meu nível de domínio em três categorias: Básico, Intermediário e Avançado. Dentre as cinco principais, apenas uma delas está no nível intermediário — reflexo da dificuldade de obter experiência prática sem oportunidades reais de atuação. Essa lacuna é um dos principais desafios enfrentados por profissionais em início ou retomada de carreira.
+
+Se quiser, posso te ajudar a transformar essa análise em uma apresentação visual ou cruzar esses dados com os tipos de vaga e plataformas utilizadas. É só me dizer!
+
+
+## Conclusões
+
+A principal intenção deste projeto é evidenciar o quão desafiador e desgastante pode ser para um profissional com experiência — mesmo em nível júnior — retornar ao mercado de trabalho. As plataformas de recrutamento precisam evoluir seus sistemas de triagem automática (ATS) para oferecer uma análise mais humanizada, que considere o potencial do candidato além de palavras-chave.
+Além disso, é essencial que o setor de tecnologia promova qualidade de vida. Diferente de outras áreas, a atuação em tech não exige presença física constante, e o modelo remoto deveria ser mais valorizado pelas empresas nacionais.
+Deixo aqui também meu repúdio às práticas abusivas de empresas que utilizam o regime de contratação Pessoa Jurídica para oferecer salários baixos e exigir jornadas excessivas, sem o devido reconhecimento ou benefícios. Essa abordagem precariza o trabalho e desvaloriza o profissional.
+
+As equipes de recrutamento precisam urgentemente revisar suas práticas, adotando processos seletivos mais transparentes, respeitosos e centrados nas pessoas. É inadmissível que tantas empresas tratem candidatos com descaso, ignorando o esforço e a dedicação envolvidos em cada candidatura.
+
+Sigo atualizando minha base de dados e me aprimorando continuamente — não apenas para conquistar uma vaga, mas para mostrar a essas empresas que sou um profissional competente, comprometido e preparado para contribuir com excelência.
+Permaneço aberto a novas oportunidades, tanto em empresas nacionais quanto internacionais, sempre com foco na área de dados e na construção de uma carreira sólida e ética.
+
+
