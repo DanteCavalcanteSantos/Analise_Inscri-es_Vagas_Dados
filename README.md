@@ -24,10 +24,10 @@ O repositório contém **três diretórios principais** e um **arquivo PDF** com
 
 ## 🛠️ Ferramentas Utilizadas
 
-- **Excel**  ![Logotipo Excel](C:\Users\dante\OneDrive\Imagens\Imagens\Excel.png)
+- **Excel**
   Utilizado para organizar o controle das candidaturas e construir o dashboard visual.
 
-- **Python**  ![Logotipo Python](C:\Users\dante\OneDrive\Imagens\Imagens\Python.png)
+- **Python**
   Empregado para tratamento dos dados e análise de frequência das palavras nas descrições das vagas.
 
 ## 📬 Dúvidas e Sugestões
@@ -64,10 +64,10 @@ The repository contains **three main directories** and one **PDF file** with the
 
 ## 🛠️ Tools Used
 
-- **Excel** ![Logotipo Excel](C:\Users\dante\OneDrive\Imagens\Imagens\Excel.png)  
+- **Excel**
   Used to organize and monitor the application data and to build the visual dashboard.
 
-- **Python**  ![Logotipo Python](C:\Users\dante\OneDrive\Imagens\Imagens\Python.png)
+- **Python**
   Used for data processing and to calculate word frequency across job descriptions.
 
 ## 📬 Questions and Suggestions
